@@ -13,7 +13,7 @@ order to reduce traffic accidents and increase road safety.
 https://rpubs.com/HarshithHS004/1051346
 
 ## 
-<img width="1488" alt="Visual1" src="https://github.com/HarshithHullakereSiddegowda/Data__Visualization/assets/100402681/3aaa34d1-2e99-45dc-b2c2-8d142121c4d4">
+![Visual1](https://github.com/HarshithHullakereSiddegowda/Data__Visualization/assets/100402681/c8109335-6a56-40d8-881c-065a7c500cc9)
 
 
 <img width="1502" alt="visualize 2" src="https://github.com/HarshithHullakereSiddegowda/Data__Visualization/assets/100402681/20851782-5267-4c7e-8992-af57df849e15">
